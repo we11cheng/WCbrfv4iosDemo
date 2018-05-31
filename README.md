@@ -1,7 +1,7 @@
 # WCbrfv4iosDemo
 人脸器官检换&amp;肤测、笑脸捕捉demo。
 ### 本Demo展示的只是更换嘴唇颜色。其他功能在ViewController.mm 打开相应注释即可。
-### 改变颜色 修改```brfv4_ios_examples/brfv4/examples/face_tracking/color_libs.hpp``` 43行
+### 改变颜色 修改```brfv4_ios_examples/brfv4/examples/face_tracking/color_libs.hpp``` 41行
 
 ### 参考链接.
 
